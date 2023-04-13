@@ -1,1 +1,2 @@
 hey this is my first test on github.
+I am adding info from my command line.
